@@ -1,0 +1,9 @@
+feature,importance,rank
+max_flood_duration,0.07720971140227273,1
+total_animal_fatalities,0.07051353978211247,2
+percent_flooded_area,0.03177037425851279,3
+corrected_percent_flooded_area,0.03124822557343793,4
+std_flood_duration,0.03086798297381762,5
+median_flood_duration,0.021777750172949115,6
+permanent_water,0.018110827901829215,7
+total_human_displaced,0.00823357490014968,8
